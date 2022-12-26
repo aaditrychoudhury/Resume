@@ -137,7 +137,7 @@
   \resumeSubHeadingListStart
     \resumeSubheading
       {Vellore Institute of Technology}{Vellore, Tamil Nadu}
-      {BTech CSE;  CGPA: 8.43}{Sept 2020 - May 2024}
+      {BTech CSE;  GPA: 8.86}{Sept 2020 - May 2024}
       \resumeSubheading
       {Sai International School}{Bhubaneswar, Odisha}
       {PCM;Percentage:95.4}{Apr 2018 -March 2020}
@@ -171,7 +171,7 @@
       {Mentee Microsoft Engage'22}{Remote, IN}
       \resumeItemListStart
         \resumeItem{Mentorship program by Microsoft Corporation.}
-        \resumeItem{25–30k students apply and only 500–700 students get selected}
+        \resumeItem{Top 500 out of 30k applied student}
         \resumeItem{Mentored by industry experts from Microsoft, for creating an app that uses face recognition feature to recognise face and store in database.}
       \resumeItemListEnd
 
@@ -180,7 +180,7 @@
       {Harvard WECode'22 Scholar}{Remote,worldwide}
       \resumeItemListStart
         \resumeItem{At Harvard University, WeCode hosts the largest student-run Women in Computer Science conference in the United States.}
-        \resumeItem{I was given a full scholarship to attend the event for free.}
+        \resumeItem{Received a full scholarship to attend the event.}
     \resumeItemListEnd
     \resumeSubheading
       {TEAM FOURTH DIMENSION}{Jan 2021 - Present · 1 yr 9 mos}
@@ -201,14 +201,14 @@
           {\textbf{DORMIR} $|$ \emph{Python, Android Studio, IOT}}{August 2022}
           \resumeItemListStart
             \resumeItem{Dormir is a phone-controlled AI-IoT device.}
-            \resumeItem{ DorMir is an all-in-one solution that consists of a pocket-sized device that can be installed inside the car, as well as a mobile application for controlling the device,which aids in distraction prevention and provides smart analytics while driving.}
+            \resumeItem{ DorMir is a one-of-a-kind solution that includes a pocket-sized device that can be installed inside the car as well as a mobile app for controlling the device, which aids in distraction prevention and provides smart analytics while driving.}
             % \resumeItem{Implemented Selenium to create an instance of Chrome in order to interact with the correct elements of the web page.}
             % \resumeItem{Created a Linux virtual machine to run on Google Cloud so that the program is able to run everyday from the cloud.}
             % \resumeItem{Used Cron to schedule the program to execute automatically at 11 AM every morning so a reservation is made for me.}
           \resumeItemListEnd
           \vspace{-13pt}
       \resumeProjectHeading
-          {\textbf{MEMORY BOOK} $|$ \emph{Java, Android Studio,TensorFlow Lite,Room Database}}{May 2022 - June 2022}
+          {\textbf{MEMORY BOOK} $|$ \emph{Java, Android Studio, TensorFlow Lite, Room Database}}{May 2022 - June 2022}
           \resumeItemListStart
             \resumeItem{Created an Android application using face recognition feature for Alzheimer patient.}
             \resumeItem{Assisting them in recognising and remembering people and things.}
@@ -216,7 +216,7 @@
           \resumeItemListEnd 
           \vspace{-13pt}
           \resumeProjectHeading
-          {\textbf{DRIP MONITOR} $|$ \emph{Android Studio,Arduino Uno,Ultrasonic sensor,Photo-resistor,wifi module}}{Apr 2021}
+          {\textbf{DRIP MONITOR} $|$ \emph{Android Studio, Arduino Uno, Ultrasonic sensor, Photo-resistor, WIFI module}}{Apr 2021}
           \resumeItemListStart
             \resumeItem{This project develops a method for efficiently monitoring drip levels in hospitals while also detecting bubble formation in the liquid used}
             \resumeItem{Provides a way to automatically monitor drip levels using a light sensor, an ultrasonic sensor, a light source, and a microcontroller system}
